@@ -4,10 +4,10 @@
 ## Summary
 hyper-real selfportrait. I have achieved my resting state 
 
-### System Requirements
+#### System Requirements
 python 3.6 or greater  
 
-### Gaining Access 
+#### Gaining Access 
 these instructions must be executed in sequence   
 <i> inside of the command prompt </i>  
 <code> git clone https://github.com/jaquielajoie/thereal.git </code>    
